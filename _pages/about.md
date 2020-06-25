@@ -2,9 +2,9 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/casino.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+2020 1학기 팀프로젝트
+Crash-Landing
 
-Etc, etc, etc
