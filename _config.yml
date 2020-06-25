@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Texas Holdem"
   avatar           : "/images/deal.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "TEAM PROJECT"
   location         : "JBNU, IT INFOMATION"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Your Github"
+  github           : # "Your Github"
   gitlab           :
   google_plus      :
   keybase          :
@@ -114,7 +114,10 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Lee-do-yeong/R.S"
 
 # Reading Files
 include:

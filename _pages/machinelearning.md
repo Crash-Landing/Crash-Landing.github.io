@@ -1,10 +1,10 @@
 ---
 layout: posts
-permalink: /data-wrangling/
-title: "Data Wrangling projects"
+permalink: /Project/
+title: "PROJECT"
 author_profile: true
 header:
-  image: "/images/fort point.png"
+  image: "/images/casino.jpg"
 ---
 
 
